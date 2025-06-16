@@ -1,0 +1,13 @@
+typer[all]
+rich
+chromadb
+pypdf
+langchain
+openai
+tiktoken
+PyMuPDF
+sentence-transformers
+openai
+faiss-cpu
+nltk
+ollama
